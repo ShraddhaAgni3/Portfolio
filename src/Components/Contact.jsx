@@ -73,7 +73,7 @@ export default function Contact() {
 
           <button
             type="submit"
-            className="bg-black text-white rounded-xl px-3 py-2 hover:bg-slate-700 duration-300 mt-3 w-full"
+            className="bg-black text-white rounded-xl px-3 py-2 hover:bg-slate-700 duration-300 mt-3 w-[80px]"
           >
             Send
           </button>
