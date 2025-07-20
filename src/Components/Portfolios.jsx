@@ -4,7 +4,7 @@ import WeatherApp from "/Screenshot (81).png";
 import Netflix from "/Screenshot (80).png";
 import Chatgpt from "/Screenshot (78).png";
 import WhatsApp from "/Screenshot (79).png";
-
+import usemanagment from "/Screenshot (89).png";
 
 export default function Portfolios() {
    const techItems = [
@@ -46,6 +46,14 @@ export default function Portfolios() {
     name: "WhatsApp Clone",
     explain: "This project is a UI/UX prototype of WhatsApp Web. Designed using HTML5 & Tailwind CSS.",
     github: "https://github.com/ShraddhaAgni3/whatsappclone",
+   
+  },
+  {
+    id: 6,
+    logo: usemanagment,
+    name: "User Management System ",
+    explain: "This project is a responsive User Management System built with HTML, CSS, and JavaScript, featuring add, edit, delete and Random User API integration.",
+    live: "https://shraddhaagni3.github.io/user_management/",
    
   },
 ];
